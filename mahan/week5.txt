@@ -1,0 +1,5 @@
+leared API testing using postman with real world example from: https://reqres.in/
+
+learned editing the api keys and their values.
+tried testing basic API in .net framewrok as well. 
+editing json values and basic static keywords.

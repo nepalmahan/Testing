@@ -1,0 +1,4 @@
+learned robot framewrok in a real time sceanrio.
+learned javascript for testing.
+learned about selenium testing and library: 
+https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html

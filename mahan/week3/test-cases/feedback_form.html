@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Form</title>
+</head>
+<body>
+    <h2>Feedback Form</h2>
+    <!-- <form action="/submit-feedback" method="post"> -->
+	<form action="#" method="post" onsubmit="alert('Form submitted'); return false;">
+
+        <div>
+            <label for="experience">Rate your experience:</label>
+            <select id="experience" name="experience" required>
+                <option value="excellent">Excellent</option>
+                <option value="good">Good</option>
+                <option value="average">Average</option>
+                <option value="poor">Poor</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <label for="comments">Additional Comments:</label>
+            <textarea id="comments" name="comments"></textarea>
+        </div>
+        <br>
+        <button type="submit">Submit Feedback</button>
+    </form>
+</body>
+</html>

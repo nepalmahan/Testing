@@ -1,0 +1,3 @@
+practiced manual testing using various forms
+practices ui testing, functionality testing and many more
+trying to learn selenium testing using robot framework
