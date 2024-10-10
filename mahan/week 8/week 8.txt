@@ -1,0 +1,17 @@
+To run these tests in each language plz use: 
+
+JavaScript: Run jest or npm test for Jest.
+Java: Use JUnit to run the test.
+Ruby: Run rspec hello_world_spec.rb.
+Python: Run python -m unittest test_hello_world.py.
+
+
+*    *      * 		* 	* 	*	*	*	*
+postman API walkthrough: 
+
+https://www.youtube.com/watch?v=MFxk5BZulVU&pp=ygUccG9zdG1hbiBhcGkgdGVzdGluZyB0dXRvcmlhbA%3D%3D
+
+
+walkedthrough free APIS using postman: 
+
+https://apipheny.io/free-api/
