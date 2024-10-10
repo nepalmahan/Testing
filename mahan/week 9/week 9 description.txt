@@ -1,0 +1,34 @@
+pen test- login page sql injection: 
+https://www.youtube.com/watch?v=TSqXkkOt6oM&pp=ygUTc3FsIGluamVjdGlvbiB0ZXN0IA%3D%3D
+
+what is sql injection? 
+
+https://www.youtube.com/watch?v=wcaiKgQU6VE&pp=ygUTc3FsIGluamVjdGlvbiB0ZXN0IA%3D%3D
+
+
+sql injection easy explanation: 
+https://www.youtube.com/watch?v=8XVHftQskxk&pp=ygUTc3FsIGluamVjdGlvbiB0ZXN0IA%3D%3D
+
+
+beginners guide for sql injection: 
+
+https://www.youtube.com/watch?v=cx6Xs3F_1Uc&pp=ygUTc3FsIGluamVjdGlvbiB0ZXN0IA%3D%3D
+
+cross site scripting: 
+
+https://www.youtube.com/watch?v=DqK_OYat-3M&pp=ygUUY3Jvc3Mgc2l0ZSBzY3JpcHRpbmc%3D
+
+cracking websites with csx: 
+
+https://www.youtube.com/watch?v=L5l9lSnNMxg&pp=ygUUY3Jvc3Mgc2l0ZSBzY3JpcHRpbmc%3D
+
+Cat principles related to Agile Methodologies: 
+
+https://qualityandinnovation.com/2019/09/21/agile-vs-lean-cats/
+
+itsqb certifications: 
+
+https://www.istqb.org/certifications/certified-tester-foundation-level
+
+
+
