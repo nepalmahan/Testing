@@ -1,0 +1,29 @@
+This week, I focused on performance testing and explored test automation frameworks:
+
+Performance Testing:
+
+Built on my previous knowledge of JMeter and LoadRunner by simulating large-scale loads on an e-commerce application to measure response times, CPU usage, and memory utilization.
+
+https://www.youtube.com/watch?v=W4npOeZBfE0&list=PLMPJ2amkI7xOYBjfeT-_aGb0n3t8CLH2_
+
+Began using BlazeMeter for cloud-based performance testing, which provided more realistic load scenarios and better insights into system bottlenecks.
+Analyzed performance metrics and identified potential performance issues that needed to be addressed.
+
+playlist: https://www.youtube.com/watch?v=jMgvnXq-s8o&list=PLGIDwNGRDzUAK78PuEgxsmDCGmym7romC
+
+
+Automation Frameworks:
+
+Explored the concept of automation testing frameworks such as POM (Page Object Model) and keyword-driven testing.
+
+https://www.youtube.com/watch?v=1zVoBhFLOTY&list=PLAkEcrdilZ4nhGjwZTSHYV3Xo6xuIckzk
+
+https://www.youtube.com/watch?v=-0F-YBAQdGE
+
+Refined my Selenium test scripts by implementing the POM structure, which made the test cases more modular, reusable, and maintainable.
+
+Integrated my Selenium framework with Jenkins for continuous integration, enabling automated test execution with each new build.
+
+Test Documentation:
+
+Continued working on test case documentation, making improvements based on feedback from peers, and aligning the structure with industry best practices.

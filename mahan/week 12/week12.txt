@@ -1,0 +1,7 @@
+In the final week of this cycle, I shifted focus to interview preparation and revision:
+
+Interview Preparation:
+Compiled a list of common interview questions for software testers, covering both manual and automated testing.
+Practiced answering questions related to test case design, defect lifecycle, automation tools, and Agile methodologies.
+Reviewed key testing concepts such as functional, non-functional, regression, and security testing.
+Focused on explaining practical experiences from my testing journey, including the tools and methodologies I used, to ensure clear and confident responses during interviews.

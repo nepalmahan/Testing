@@ -1,0 +1,35 @@
+Week 10:
+This week, I continued honing my skills in automation testing and began exploring advanced testing strategies:
+
+Advanced Automation Testing:
+
+Focused on learning Selenium more deeply, particularly handling dynamic web elements such as pop-ups and alerts.
+
+ https://www.qatouch.com/blog/dynamic-web-elements-in-selenium/
+
+youtube: 
+https://www.youtube.com/watch?v=78yPEB_LpqM
+
+
+
+Integrated Selenium with Maven for better project management and continuous integration (CI).
+
+https://www.youtube.com/watch?v=BlI2NGarmvY
+
+
+Automated form submission processes for a web application, applying advanced techniques like handling iframes, multiple windows, and data-driven testing using external files (Excel/CSV).
+
+https://www.youtube.com/watch?v=-2rIftaYJHo
+
+API Testing:
+
+Improved my API testing skills using Postman by writing more complex test cases and using environment variables to handle different testing environments.
+Practiced chaining requests to simulate end-to-end API interactions and learned to automate API tests within a CI pipeline.
+
+https://www.postman.com/postman/flows-snippets/flow/6267f9315d367a64e7ba06e5
+
+Reporting:
+
+Worked with reporting tools like Allure and Extent Reports to generate detailed automation test reports, which provide better visibility of test execution and results.
+
+https://www.youtube.com/watch?v=Xv9-u5qVz58
