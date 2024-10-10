@@ -1,0 +1,15 @@
+
+
+learned swagger : https://swagger.io/tools/swaggerhub/
+traversed through swagger documentation: https://swagger.io/solutions/api-documentation/
+
+youtube walkthrough for swagger: 
+
+https://www.youtube.com/watch?v=dhMlXoTD3mQ
+
+https://www.youtube.com/watch?v=xQfMARPNycI
+
+selenium scenarios : 
+
+https://www.youtube.com/watch?v=JjelA7ZUf9I&list=PLFGoYjJG_fqp1zvxelcB2WGHzUyVxDSQK
+
