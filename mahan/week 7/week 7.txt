@@ -1,0 +1,33 @@
+walkthrough performance testing: 
+
+https://www.youtube.com/watch?v=-dI_gKRePRo
+
+walkthrough J meter: 
+
+https://www.youtube.com/watch?v=thc14fLXU2k
+
+playlist: 
+https://www.youtube.com/watch?v=817zU_bXh9Y&list=PLUDwpEzHYYLs33uFHeIJo-6eU92IoiMZ7
+
+walkthrough LoadRunner: 
+
+playlist: 
+
+https://www.youtube.com/watch?v=-q3-csdo3Qk&list=PLD_oMT3yQBF_HNAIXarU7Ab5KcVWi4GiD
+
+walkthrough: Continuous Integration(CI): 
+
+https://www.youtube.com/watch?v=1er2cjUq1UI&pp=ygUWY29udGludW91cyBpbnRlZ3JhdGlvbg%3D%3D
+
+https://www.youtube.com/watch?v=HjXTSbXG1k8&pp=ygUWY29udGludW91cyBpbnRlZ3JhdGlvbg%3D%3D
+
+
+
+Jenkins video: 
+
+https://www.youtube.com/watch?v=HZf9mb6WvRI&pp=ygUaamVua2lucyBnaXRodWIgaW50ZWdyYXRpb24%3D
+
+
+https://www.youtube.com/watch?v=jSm0YZ-NQAc&pp=ygUaamVua2lucyBnaXRodWIgaW50ZWdyYXRpb24%3D
+
+
