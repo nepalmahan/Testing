@@ -1,0 +1,5 @@
+•	Reviewed previous test cases and executed them.
+•	Wrote test cases for several web pages.
+•	Learned how to identify and report bugs from various pages.
+•	Watched basic YouTube tutorials on JMeter, specifically on load testing.
+•	Completed a load test on a demo website and analyzed the results using a tree report.

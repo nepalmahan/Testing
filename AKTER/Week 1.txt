@@ -1,1 +1,4 @@
-My 1st file for testing group
+•	Studied foundational concepts of Business Analysis through various online resources.
+•	Independently performed tasks such as adding, committing, and pushing files to GitHub.
+•	Reviewed key testing methodologies previously learned.
+•	Examined test cases from multiple online sources for deeper understanding.

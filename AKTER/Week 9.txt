@@ -1,0 +1,5 @@
+•	Learned the fundamentals of security testing.
+•	Researched testing certifications such as ISTQB and assessed their relevance for career progression.
+•	Installed and explored testing tools, using command-line functions to enhance my setup.
+•	Applied testing techniques on a demo website to assess my abilities.
+•	Began learning Selenium for automation testing, as I aim to specialize in Automation Testing in the future.

@@ -1,1 +1,5 @@
-My 1st file for testing group
+•	Explored career transitions for Business Analysts/Testers.
+•	Watched a YouTube video about the role of Business Analysts within organizations.
+•	Familiarized myself with basic project management tools and techniques.
+•	Gained an understanding of defect tracking and reporting using popular tools.
+•	Reviewed the key differences between functional and non-functional testing.

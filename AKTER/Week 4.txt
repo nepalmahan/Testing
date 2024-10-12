@@ -1,1 +1,6 @@
-My 1st file for testing group
+•	Reviewed Business Analyst resume samples to better understand market requirements.
+•	Watched YouTube videos on how to use Trello for project management.
+•	Gained hands-on experience with JIRA for task tracking.
+•	Downloaded and installed Postman for API testing.
+•	Watched instructional videos on using Postman for API testing with various request types.
+•	Discussed Automation Testing basics with my team, learning the overall process.

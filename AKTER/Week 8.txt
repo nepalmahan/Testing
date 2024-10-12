@@ -1,0 +1,5 @@
+•	Developed "Hello World" test cases using various tools like JMeter, Robot Framework, and Selenium.
+•	Explored Jira and TestRail for managing test cases and tracking progress.
+•	Watched a basic SQL tutorial and further familiarized myself with SQL queries.
+•	Began learning Robot Framework for automation testing.
+•	Practiced using Robot Framework with Python.

@@ -1,0 +1,6 @@
+•	Studied the basics of load and performance testing.
+•	Installed JMeter and followed tutorials to set it up for load testing.
+•	Researched additional load and performance testing tools, finding JMeter to be the most user-friendly.
+•	Studied how the Software Testing Life Cycle (STLC) works.
+•	Explored the Software Development Life Cycle (SDLC) and its role in organizations.
+

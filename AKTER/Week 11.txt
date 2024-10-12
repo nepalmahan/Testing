@@ -1,0 +1,6 @@
+•	Created comprehensive test plans and test strategy documents for a mock project.
+•	Explored advanced features of Selenium for web automation.
+•	Gained hands-on experience with TestRail for managing test cases and tracking results.
+•	Watched a webinar on Agile methodologies and their impact on testing.
+•	Reviewed security testing tools and their applications in real-world scenarios.
+•	Collaborated with peers to conduct peer reviews of test cases and plans.

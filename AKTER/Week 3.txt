@@ -1,0 +1,5 @@
+•	Created visual reports using Power BI with sample CSV data.
+•	Watched introductory JIRA tutorials to understand its functionality.
+•	Planned to explore advanced Power BI features and apply JIRA in future tasks.
+•	Learned the basics of API testing, including various testing methods.
+•	Installed and explored API automation tools, gaining hands-on experience with Postman.

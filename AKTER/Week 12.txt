@@ -1,0 +1,5 @@
+•	Will conduct end-to-end testing of a small application to apply learned concepts.
+•	Review the fundamentals of continuous integration (CI) and continuous deployment (CD).
+•	Familiarize with version control systems (Git) for collaboration in team environments.
+•	Will be developing an automated test suite using Robot Framework for the application.
+•	Planned and started preparing for ISTQB certification, reviewing study materials and practice tests.
